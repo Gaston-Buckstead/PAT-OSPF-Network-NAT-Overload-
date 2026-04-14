@@ -1,6 +1,7 @@
 # PAT-OSPF-Network-NAT-Overload-
 <img width="698" height="352" alt="image" src="https://github.com/user-attachments/assets/fd4aa766-08fd-4838-9f19-1a0aa0aa6ce9" />
 
+### [Download Packet Tracer](https://github.com/Gaston-Buckstead/PAT-OSPF-Network-NAT-Overload-/blob/main/PAT%20%2B%20OSPF.pkt)
 ## Objective
 Configure OSPF for routing and PAT (NAT overload) to allow internal network access to external network.
 
